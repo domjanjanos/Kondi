@@ -8,3 +8,7 @@ git status
 git remote set-url origin https://github.com/domjanjanos/Kondi.git
 git remote -v
 git push -u origin master
+.
+git push
+.
+git pull
