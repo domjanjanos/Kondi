@@ -1,0 +1,10 @@
+GitHub-ra beállítva. (2016.07.19)
+domjanjanos/Domi01HW
+
+Git Shell:
+git init
+git add .
+git status
+git remote set-url origin https://github.com/domjanjanos/Kondi.git
+git remote -v
+git push -u origin master
